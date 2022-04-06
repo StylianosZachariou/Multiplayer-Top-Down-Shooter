@@ -1,0 +1,101 @@
+﻿  Background.cpp
+  Bullet.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Bullet.cpp(52,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  BulletManager.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\BulletManager.cpp(47,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\BulletManager.cpp(52,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  GUI.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\GUI.cpp(37,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(65,82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(65,67): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(65,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(70,82): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(70,67): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(70,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(75,85): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(75,70): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(75,52): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(80,85): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(80,70): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(80,52): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(85,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(133,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Level.cpp(260,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LevelTiles.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\LevelTiles.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  MatchMakingLevel.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\MatchMakingLevel.cpp(14,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\MatchMakingLevel.cpp(14,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Player.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Player.cpp(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Player.cpp(178): warning C4715: 'Player::handleInputShoot': not all control paths return a value
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\MatchMakingLevel.cpp(35): warning C4715: 'MatchMakingLevel::handleInput': not all control paths return a value
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Bullet.cpp(78): warning C4715: 'Bullet::update': not all control paths return a value
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\Cmp303CW\Background.cpp(32): warning C4715: 'Backround::moveView': not all control paths return a value
+  Cmp303CW.vcxproj -> C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303\x64\Debug\Cmp303CW.exe

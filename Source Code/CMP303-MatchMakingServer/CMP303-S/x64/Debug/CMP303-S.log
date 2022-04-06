@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303-MatchMakingServer\CMP303-S\Main.cpp(89,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303-MatchMakingServer\CMP303-S\Main.cpp(227,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CMP303-S.vcxproj -> C:\Users\Stylianos\Desktop\CMP303_1800997_StylianosZachariou\Source Code\CMP303-MatchMakingServer\x64\Debug\CMP303-S.exe

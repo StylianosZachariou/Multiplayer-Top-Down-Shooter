@@ -1,0 +1,17 @@
+﻿  Level.cpp
+  Main.cpp
+  Player.cpp
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::SoundSource::setVolume(float)" (__imp_?setVolume@SoundSource@sf@@QEAAXM@Z)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UEAA@XZ)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(class sf::Sound const &)" (__imp_??0Sound@sf@@QEAA@AEBV01@@Z)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Music::~Music(void)" (__imp_??1Music@sf@@UEAA@XZ)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Music::Music(void)" (__imp_??0Music@sf@@QEAA@XZ)
+AudioManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::SoundStream::setLoop(bool)" (__imp_?setLoop@SoundStream@sf@@QEAAX_N@Z)
+SoundObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@SoundBuffer@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+SoundObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QEAA@XZ)
+SoundObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::setBuffer(class sf::SoundBuffer const &)" (__imp_?setBuffer@Sound@sf@@QEAAXAEBVSoundBuffer@2@@Z)
+SoundObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(void)" (__imp_??0Sound@sf@@QEAA@XZ)
+C:\Users\Stylianos\Desktop\CMP303\x64\Release\Cmp303CW.exe : fatal error LNK1120: 11 unresolved externals
