@@ -37,4 +37,4 @@ The goal of the game is to be the last player standing.
 
 ### The Application
 
-A zipped file containing the executable can be downloaded from the Release page or [here](https://github.com/StylianosZachariou/Multiplayer-Top-Down-Shooter/releases/download/1.0/executable.zip).
+A zipped file containing the match-making and game servers with the client can be downloaded from the Release page or [here](https://github.com/StylianosZachariou/Multiplayer-Top-Down-Shooter/releases/download/1.0/executable.zip).
