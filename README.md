@@ -10,7 +10,7 @@ The networking model is a client-server model. A match-making server is always o
 
 When the game begins, the clients and server communicate using both UDP and TCP. UDP is used for information that needs continuous updates (eg. player movement) and TCP is used for actions that are triggered less often (eg. player shooting). Prediction and interpolation is also implemented to smooth possible network faults and make the game expirience more enjoyable.
 
-<img src=https://media.giphy.com/media/Zsc2GFCDQYaIqUtnim/giphy-downsized.gif" width="400">
+<img src="https://media.giphy.com/media/Zsc2GFCDQYaIqUtnim/giphy-downsized.gif" width="400">
 
 ### The Game
 
