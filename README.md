@@ -18,11 +18,11 @@ As soon as the players connect, they spawn in different positions around the map
 
 - The main fast-paced gun (deals 1 damage)
 
-<img src="https://media.giphy.com/media/tIgyJT5OvNeMcSbfS7/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/2LMPom92pbulXNONdg/giphy.gif" width="400">
 
 - The homing bullet which can be controlled using the mouse (deals 5 damage)
 
-<img src="https://media.giphy.com/media/2LMPom92pbulXNONdg/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/tIgyJT5OvNeMcSbfS7/giphy.gif" width="400">
 
 The goal of the game is to be the last player standing.
 
